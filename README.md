@@ -93,11 +93,7 @@ The notebook includes:
 
 - Deploy as a simple web app for live employee retention predictions
 
-## 👨‍💻 Author
-
-Your Name - Harsh Tripathi
-
-Engineering Student @ IIIT Raichur
-📧 tripathiharsh2104@gmail.com
-
-🔗 LinkedIn
+## ✍️ Author
+- **Your Name** Harsh Tripathi   
+  📧 your.email@example.com  
+  🔗 [LinkedIn Profile](https://www.linkedin.com/in/erharsh21iiitr)  
