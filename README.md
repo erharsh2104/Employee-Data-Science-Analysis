@@ -97,6 +97,7 @@ The notebook includes:
 
 Your Name - Harsh Tripathi
 
+Engineering Student @ IIIT Raichur
 📧 tripathiharsh2104@gmail.com
 
 🔗 LinkedIn
