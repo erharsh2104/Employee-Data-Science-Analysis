@@ -45,9 +45,11 @@ The workflow includes:
 
 ## 📊 Results
  Model Performance (example results)
- Model	Accuracy	Precision	Recall	F1-score	ROC-AUC
- Logistic Regression	0.60	0.42	0.50	0.43	0.59
- Random Forest	0.75	0.56	0.60	0.55	0.72
+| Model               | Accuracy | Precision | Recall | F1-score | ROC-AUC |
+| ------------------- | -------- | --------- | ------ | -------- | ------- |
+| Logistic Regression | 0.60     | 0.42      | 0.50   | 0.43     | 0.59    |
+| Random Forest       | 0.75     | 0.56      | 0.60   | 0.55     | 0.72    |
+
 
 ➡️ Random Forest outperformed Logistic Regression in almost all metrics, making it a better choice for this dataset.
 
